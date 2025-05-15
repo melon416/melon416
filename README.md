@@ -68,3 +68,14 @@ Email : smilelite416@gmail.com
 [🔗 View Repository](https://github.com/melon416/linkedin_scraper)
 
 
+### ⛪ Faithmo - Church CRM (React, Node.js, AWS)  
+Faithmo is a Church CRM solution I built from scratch, providing churches with tools to manage members, donations, events, and communication.
+
+✨ Highlights:
+- Fully serverless, scalable architecture on AWS.
+- Built with React (frontend) and Node.js (backend).
+- Integrated event management, giving tools, and member engagement features.
+
+🌐 [Visit Faithmo](https://www.faithmo.com/)  
+💻 [Frontend Repo](https://github.com/melon416/faithmo-fe)  
+💻 [Backend Repo](https://github.com/melon416/faithmo-be)
