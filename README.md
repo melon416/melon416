@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🚀 I'm a Full Stack Developer with expertise in building end-to-end solutions using modern technologies.  
-💼 I specialize in automation, bots, API integration, and scalable web applications.
+🚀 I'm a Full Stack Engineer & Game Developer with expertise in building end-to-end solutions using modern technologies.  
+💼 I specialize in automation, bots, API integration, game design/development and scalable web applications.
 
 ## 📫 Let's Connect
 
@@ -10,8 +10,8 @@ Email : smilelite416@gmail.com
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on automation bots for Google Reviews, Gmail, Social Websites and other E-commerce sites.
-- 💬 Ask me about Python, Node.js, FastAPI, Flask, Express, Vue.js, React.
+- 🔭 I’m currently working on game development and automation bots for Google Reviews, Gmail, Social Websites and other E-commerce sites.
+- 💬 Ask me about Python, Unity(C#), Node.js, GoLang, FastAPI, Flask, Express, Vue.js, React.
 - 🌱 I’m exploring cloud-native automation and serverless functions.
 - 🎯 I'm well-versed in making websites and dashboards.
 
