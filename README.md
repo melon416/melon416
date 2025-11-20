@@ -19,6 +19,7 @@ Email : smilelite416@gmail.com
 
 ### 💻 Back End
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
